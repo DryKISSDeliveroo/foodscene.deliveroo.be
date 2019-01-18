@@ -271,6 +271,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/how-does-participating-in-a-deliveroo-campaign-help-grow-your-business.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/more-to-your-door.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8875,6 +8881,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/restaurants.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/promotion.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9020,12 +9032,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/tag/2018.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/restaurants.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10159,6 +10165,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/promotions.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10171,13 +10183,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/deliveroo.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10202,12 +10214,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/natasha-graydon.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/deliveroo.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10327,6 +10333,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/2.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/promotions/page/2.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10346,12 +10358,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/food-trends/page/4.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/2.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
