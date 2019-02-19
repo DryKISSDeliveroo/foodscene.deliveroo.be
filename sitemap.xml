@@ -8959,30 +8959,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/valentines-day.html</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/love.html</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/deloveroo.html</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/salon-du-chocolat.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9032,6 +9008,30 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/tag/chocolate.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/valentines-day.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/love.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/deloveroo.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10387,13 +10387,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/zaina.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/jorina.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/jorina.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/zaina.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10585,6 +10585,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/jorina/page/2.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/zaina/page/2.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10592,12 +10598,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/zaina/page/3.html</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/jorina/page/2.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
