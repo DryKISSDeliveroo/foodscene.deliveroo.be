@@ -577,6 +577,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/food-trends/laat-je-inspireren-door-deze-vier-sterke-vrouwen-in-de-voedselindustrie.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/food-trends/5-vragen-die-je-altijd-al-wilden-stellen-aan-een-deliveroo-rider.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2761,7 +2767,49 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/vrouwendag.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/vrouwen-in-business.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/vrouwelijke-riders.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/riders.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/vrouwelijke-chef-koks.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/deliveroo.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/levering.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2864,18 +2912,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/gratis-eten.html</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/levering.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5665,13 +5701,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/promoties.html</loc>
+    <loc>https://foodscene.deliveroo.be/food-trends.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.be/promoties.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5791,13 +5827,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/tag/deliveroo/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/tag/deliveroo/page/2.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
