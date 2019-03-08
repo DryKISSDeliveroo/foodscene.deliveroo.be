@@ -433,6 +433,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration/st-patricks-day-good-luck-food.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration/dish-of-the-day-gyoza.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9049,13 +9055,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/international-women-s-day.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/tag/st-patrick.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/good-luck.html</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/international-women-s-day.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10561,13 +10579,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/cuisine-inspiration.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/food-trends.html</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
