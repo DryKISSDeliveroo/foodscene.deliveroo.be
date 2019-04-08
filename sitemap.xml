@@ -2689,6 +2689,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/fr/promotions/votre-plat-prefere-a-20-percent-sur-deliveroo.html</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/fr/promotions/black-friday-a-vos-marques-pret-commandez.html</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6373,6 +6379,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/fr/tag/offres.html</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/fr/tag/journee-de-la-femme.html</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6422,12 +6434,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/fr/tag/rider.html</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/fr/tag/offres.html</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8599,13 +8605,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/fr/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.be/fr/promotions.html</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/fr/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.be/fr/food-trends.html</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
