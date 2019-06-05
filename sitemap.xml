@@ -9169,6 +9169,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/win.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/men-in-black.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/men-in-black-international.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/movies.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/italy.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/brussels.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/kinepolis.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/restaurants.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9223,12 +9265,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/win.html</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/influencers.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9248,12 +9284,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/tag/leuven.html</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/brussels.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
