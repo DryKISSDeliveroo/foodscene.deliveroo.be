@@ -2899,18 +2899,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/tag/menu-fresh-atelier.html</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/delhaize.html</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/tag/examens.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5257,6 +5245,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/menu-fresh-atelier.html</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/delhaize.html</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/aperitief.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5869,12 +5869,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/restaurantprofiel.html</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/maaltijd-inspiraties.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5893,7 +5887,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.be/restaurantprofiel.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5942,6 +5936,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/laurens.html</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/deliveroo.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6301,12 +6301,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/restaurantprofiel/page/2.html</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/maaltijd-inspiraties/page/2.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6392,6 +6386,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/food-trends/page/2.html</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/restaurantprofiel/page/2.html</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
