@@ -781,6 +781,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/food-trends/contactloos-leveren-voor-alle-bestellingen.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/food-trends/tournee-minerale-deliveroo-schenkt-een-alcoholvrij-alternatief-in.html</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3007,6 +3013,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/contactloze-levering.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/veiligheid.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/klanten.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/koeriers.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/bedrijfskantine.html</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3212,12 +3248,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/riders.html</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6217,6 +6247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/deliveroo/page/2.html</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6266,12 +6302,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/antwerpen/page/8.html</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
