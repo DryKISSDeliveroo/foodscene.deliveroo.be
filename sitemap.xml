@@ -847,6 +847,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/food-trends/deliveroo-support-during-covid.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/food-trends/bier-wat-drink-je-bij-welke-gerechten.html</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3085,6 +3091,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/customers.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/riders.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/hospitals.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/community.html</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/contactloze-levering.html</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3158,12 +3194,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/veggie.html</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3368,12 +3398,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/vrouwelijke-riders.html</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/riders.html</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
