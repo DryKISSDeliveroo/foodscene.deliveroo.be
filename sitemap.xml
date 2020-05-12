@@ -319,7 +319,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/food-trends/top-food-trends-for-2020.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/food-trends/celebrate-your-virtual-wedding-with-deliveroo.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -866,6 +866,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/food-trends/deliveroo-soubry-leveren-een-love-pasta-van-1-meter-tot-bij-jou-thuis.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/food-trends/organiseer-virtuele-bruiloft-dankzij-deliveroo.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3097,6 +3103,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/virtuele.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/bruiloft.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/deliveroo.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/cateringservice.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/competitie.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/restaurants.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3224,12 +3260,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/deliveroo-for-business.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/deliveroo.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6397,13 +6427,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/tag/deliveroo/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/tag/deliveroo/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/tag/restaurants/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6596,6 +6626,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/vis/page/2.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/archive/2020/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9829,6 +9865,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/wedding.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/cancelled-wedding.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/contest.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/couples.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/catering.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/restaurants.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10099,12 +10171,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/deliveroo.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/delivery-fee.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10256,12 +10322,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/tag/pizza.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/contest.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11641,13 +11701,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/food-trends.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11791,24 +11851,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/restaurants/page/2.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/restaurants/page/3.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/tag/brussels/page/2.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/en/tag/deliveroo/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11834,6 +11876,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/tag/deliveroo/page/6.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/restaurants/page/2.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/restaurants/page/3.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/tag/brussels/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11911,24 +11971,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/2.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/3.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/4.html</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.be/en/food-trends/page/2.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11948,6 +11990,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/en/food-trends/page/5.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/2.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/3.html</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/en/restaurant-profiles/page/4.html</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
