@@ -943,6 +943,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/food-trends/wat-je-favoriete-burger-over-je-vertelt.html</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/promoties/see-more-play-more-eat-more.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3139,6 +3145,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.be/tag/burgers.html</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/internationale-hamburgerday.html</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/cheeseburger.html</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.be/tag/sushi-burger.html</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.be/tag/virtuele.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3422,12 +3452,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.be/tag/antwerpen.html</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.be/tag/burgers.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6361,13 +6385,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.be/jorina.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/jorina.html</loc>
+    <loc>https://foodscene.deliveroo.be/deliveroo.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6877,13 +6901,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/deliveroo/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/jorina/page/2.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.be/jorina/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.be/deliveroo/page/2.html</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
